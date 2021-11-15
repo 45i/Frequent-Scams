@@ -7,6 +7,6 @@ Special note to bot developers:
 - Once finished do mail me screenshots or video recordings of the program in action! I'd love to see it! Click [Here](mailto:cpeuk0w6c@relay.firefox.com) to send an email!
 
 Thanks to the contributors!
-<a href="https://github.com/45i/Frequent-Scams/graphs/contributors">
+<p><a href="https://github.com/45i/Frequent-Scams/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=45i/Frequent-Scams" />
-</a>
+</a></p>
