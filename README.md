@@ -9,7 +9,9 @@ Special note to bot developers:
 
 ### Contribution guide
 Before opening a pull request, please check if the scam you want to add already exists in the list.
+
 [Sort the links alphabetically.](https://miniwebtool.com/sort-lines-alphabetically/)
+
 [Check if there are repeated links.](https://dedupelist.com/)
 
 
