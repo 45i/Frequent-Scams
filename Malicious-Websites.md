@@ -1,5 +1,6 @@
 # List of Malicious Websites
 **WARNING: DO NOT OPEN THE LINKS BELOW OR ANY OTHER SUSPICIOUS LINKS**
+**This is purely EDUCATION PURPOSES ONLY!! We don't endorse such malicious sites!**
 
 ```
 1nitro.club
