@@ -1,4 +1,5 @@
 # List of Malicious Websites
+**WARNING: DO NOT OPEN THE LINKS BELOW OR ANY OTHER SUSPICIOUS LINKS**
 
 ```
 1nitro.club
