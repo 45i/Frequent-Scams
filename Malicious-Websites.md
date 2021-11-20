@@ -44,6 +44,7 @@ discord-give.net
 discord-steam-promo.com
 discordap.com
 discordapp.gift
+discordg.link
 discordgifte.com
 discordniltro.com
 discordnitro.com
