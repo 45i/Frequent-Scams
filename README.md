@@ -14,9 +14,10 @@ This is a list of frequent scams we find in discord channels and DMs. Please fee
 ### Contribution guide
 Before opening a pull request, please check if the scam you want to add already exists in the list.
 
-[Sort the links alphabetically.](https://miniwebtool.com/sort-lines-alphabetically/)
+### Make Sure To
+- [X] [Sort the links alphabetically.](https://miniwebtool.com/sort-lines-alphabetically/)
 
-[Check if there are repeated links.](https://dedupelist.com/)
+- [X] [Check if there are repeated links.](https://dedupelist.com/)
 
 <br>
 
