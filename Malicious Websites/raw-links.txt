@@ -1657,6 +1657,7 @@ didtheyreadit.com
 digital-ads.s3.amazonaws.com
 digitalmerkat.com
 dilscordnitro.com
+dilscrod-game.com
 direct-events-collector.spot.im
 direct-xxx-access.com
 directaclick.com
@@ -1680,7 +1681,9 @@ discord-drop.xyz
 discord-gifts.xyz
 discord-give.com
 discord-give.net
+discord-i.com
 discord-nltro.xyz
+discord-s.com
 discord-steam-promo.com
 discord.freehlp.com
 discord.gifte.com
@@ -1693,19 +1696,26 @@ discorde.gift
 discordg.link
 discordgift.site
 discordgifte.com
+discordlnitro.com
 discordniltro.com
 discordnitro.com
 discordnitrocodes.blogspot.com
 discordnltro.com
 discordrgift.com
+discordrpp.com
 discords-nitro.xyz
 discordsgift.com
 discorid.gift
 discorl.com
 discorx.gift
+discosb.gift
 discountclick.com
+discqrc.gift
 discreetfield.com
 discrocl-gift.xyz
+discrod-gifts.org
+disocrde.gift
+disocrds.gift
 disordapp.codes
 dispensablestranger.com
 disqusads.com
@@ -1718,10 +1728,12 @@ distillery.wistia.com
 districtm.ca
 districtm.io
 dk4ywix.com
+dliscord-app.com
 dliscord-give.com
 dliscord-give.net
 dliscord.com
 dliscord.net
+dliscordapp-gifts.com
 dliscords.com
 dlscocrdapp.com
 dlscord-app.com
@@ -1729,6 +1741,7 @@ dlscord-app.info
 dlscord-give.com
 dlscord-give.net
 dlscord-nitro.info
+dlscord-nt.com
 dlscord.com
 dlscord.net
 dlscord.org
@@ -1739,6 +1752,7 @@ dlscordnltro.com
 dlscords.shop
 dlscordsteam.com
 dlscorldnitro.store
+dlscrod-game.ru
 dlsscord.gift
 dlsscordapp.com
 dmp.mall.tv
@@ -2601,6 +2615,7 @@ nitro-discordapp.com
 nitro-drop.com
 nitroclicks.com
 nitrodsgiveways.com
+nitroisteam.com
 noiselessplough.com
 nondescriptcrowd.com
 nondescriptnote.com
@@ -3380,6 +3395,7 @@ steamcornmuniti.xyz
 steamdigitalgift.com
 steamdiscord.com
 steamfeatured.com
+steamfnitro.com
 steamgames.me
 steamgifts.site
 steamhalloween.com
@@ -3410,6 +3426,7 @@ steamsnitro.ru
 steamspecial.com
 steamspecial.org
 steamsummer.com
+steamtnitro.com
 steamtradeoffer.ml
 steamunlocked.net
 steamwallet.online
